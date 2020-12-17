@@ -1,17 +1,11 @@
-﻿# Pixiv-Nginx
+﻿[![GitHub release](https://img.shields.io/github/release/ShioMile/Pixiv-Nginx.svg?style=flat-square)](https://github.com/ShioMile/Pixiv-Nginx/releases/latest)
 
-[![GitHub release](https://img.shields.io/github/release/mashirozx/Pixiv-Nginx.svg?style=flat-square)](https://github.com/mashirozx/Pixiv-Nginx/releases/latest)
-[![Github commits (since latest release)](https://img.shields.io/github/commits-since/mashirozx/Pixiv-Nginx/latest.svg?style=flat-square)](https://github.com/mashirozx/Pixiv-Nginx/commits/)
+本项目是利用本地反向代理来实现对Pixiv、Wikipedia等一众网站进行直连访问的Nginx配置文件，fork自[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)，原项目已存档。
 
-使用说明见 <https://2heng.xin/2017/09/19/pixiv/>
+与原项目项目相比，本项目删除了Nginx二进制文件（让用户原项目Nginx版本太落后）以及各种杂项文件，仅保留了conf文件及自签证书的批处理文件。
 
-请在[此处](https://github.com/mashirozx/Pixiv-Nginx/releases)下载稳定版`Source code
-(zip)`；或者在本页点击下图所示的按键下载以获取最新版。
-![](https://view.moezx.cc/images/2018/09/17/git.png)
-
-如遇本页下载速度过慢，可尝试通过[国内镜像](https://gitee.com/mashirozx/Pixiv-Nginx)下载。
+使用&安装说明及常见问题参见 → [WIKI](https://github.com/ShioMile/Pixiv-Nginx/wiki)
 
 ### LICENSE
-This is a fork of [nginx/nginx](https://github.com/nginx/nginx), so you should always follow its [2-clause BSD-like license](http://nginx.org/LICENSE).
 
-The visualized management tool is part of [wnmp/wnmp](https://github.com/wnmp/wnmp), which is under [GPL-3.0](https://github.com/wnmp/wnmp/blob/master/LICENSE).
+This is a fork of [mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx), so you should always follow its [MIT license](https://opensource.org/licenses/MIT).
