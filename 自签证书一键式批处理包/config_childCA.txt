@@ -42,6 +42,9 @@ DNS.28 = upload.wikimedia.org
 DNS.29 = exhentai.org
 DNS.30 = e-hentai.org
 DNS.31 = *.e-hentai.org
+DNS 32 = mega.nz
+DNS 33 = onedrive.live.com
+DNS 34 = *.onedrive.live.com
 
 [ v3_req ]
 keyUsage				= digitalSignature

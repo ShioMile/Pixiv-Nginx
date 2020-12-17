@@ -127,3 +127,12 @@
 127.0.0.1	www.nyaa.si
 127.0.0.1	sukebei.nyaa.si
 # Nyaae End
+
+# Onedrive Start
+127.0.0.1	onedrive.live.com
+127.0.0.1	skyapi.onedrive.live.com
+# Onedrive End
+
+# MEGA Start
+127.0.0.1	mega.nz
+# MEGA End
