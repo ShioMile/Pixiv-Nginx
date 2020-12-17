@@ -97,16 +97,14 @@
 127.0.0.1	wuu.wikipedia.org
 127.0.0.1	ug.wikipedia.org
 127.0.0.1	ja.wikipedia.org
-127.0.0.1	zh.wikinews.org
+127.0.0.1	zh.wikiquote.org
 # Wikipedia End
 
 # Wikimedia Start
-127.0.0.1	wikimedia.org
 127.0.0.1	upload.wikimedia.org
 # Wikimedia End
 
 # Steam Start
-127.0.0.1	store.steampowered.com
 127.0.0.1	steamcommunity.com
 # Steam end
 
