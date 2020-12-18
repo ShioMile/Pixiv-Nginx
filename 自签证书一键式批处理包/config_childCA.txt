@@ -44,6 +44,8 @@ DNS 30 = mega.nz
 DNS 31 = onedrive.live.com
 DNS 32 = *.onedrive.live.com
 DNS.33 = rarbgprx.org
+DNS.34 = amazon.co.jp
+DNS.35 = *.amazon.co.jp
 
 [ v3_req ]
 keyUsage				= digitalSignature

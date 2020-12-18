@@ -108,6 +108,14 @@
 127.0.0.1	steamcommunity.com
 # Steam end
 
+# Amazon-JP Start
+127.0.0.1	amazon.co.jp
+127.0.0.1	www.amazon.co.jp
+127.0.0.1	api.amazon.co.jp
+127.0.0.1	astore.amazon.co.jp
+127.0.0.1	services.amazon.co.jp
+# Amazon-JP End
+
 # AO3 Start
 127.0.0.1	archiveofourown.org
 # AO3 end
