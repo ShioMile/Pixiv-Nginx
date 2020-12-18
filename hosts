@@ -146,3 +146,8 @@
 # MEGA Start
 127.0.0.1	mega.nz
 # MEGA End
+
+# ApkMirror Start
+127.0.0.1	apkmirror.com
+127.0.0.1	www.apkmirror.com
+# ApkMirror End
