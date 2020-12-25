@@ -8,4 +8,4 @@
 
 ### LICENSE
 
-This is a fork of [mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx), so you should always follow its [MIT license](https://opensource.org/licenses/MIT).
+[MIT license](https://raw.githubusercontent.com/ShioMile/Pixiv-Nginx/master/LICENSE)
