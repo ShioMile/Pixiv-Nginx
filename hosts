@@ -151,3 +151,13 @@
 127.0.0.1	apkmirror.com
 127.0.0.1	www.apkmirror.com
 # ApkMirror End
+
+# imgur Start
+# 注：上传图片需注册，imgur已禁止中国IP匿名上传图片。
+127.0.0.1	imgur.com
+127.0.0.1	www.imgur.com
+127.0.0.1	api.imgur.com
+127.0.0.1	i.imgur.com
+127.0.0.1	s.imgur.com
+127.0.0.1	p.imgur.com
+# imgur End

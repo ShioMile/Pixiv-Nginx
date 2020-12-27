@@ -44,6 +44,8 @@ DNS.30 = amazon.co.jp
 DNS.31 = *.amazon.co.jp
 DNS.32 = apkmirror.com
 DNS.33 = *.apkmirror.com
+DNS.34 = imgur.com
+DNS.35 = *.imgur.com
 
 [ v3_req ]
 keyUsage				= digitalSignature
