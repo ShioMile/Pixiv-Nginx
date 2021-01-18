@@ -46,6 +46,8 @@ DNS.32 = apkmirror.com
 DNS.33 = *.apkmirror.com
 DNS.34 = imgur.com
 DNS.35 = *.imgur.com
+DNS.36 = vimeo.com
+DNS.37 = *.vimeo.com
 
 [ v3_req ]
 keyUsage				= digitalSignature

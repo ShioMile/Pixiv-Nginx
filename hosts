@@ -82,10 +82,6 @@
 127.0.0.1	i.pximg.net
 127.0.0.1	app-api.pixiv.net
 127.0.0.1	g-client-proxy.pixiv.net
-210.140.131.159	d.pixiv.org
-210.140.92.140	pixiv.pximg.net
-210.140.92.139	s.pximg.net
-210.140.131.246	api.booth.pm
 #Pixiv End
 
 # Wikipedia Start
@@ -161,3 +157,12 @@
 127.0.0.1	s.imgur.com
 127.0.0.1	p.imgur.com
 # imgur End
+
+# Vimeo Start
+127.0.0.1	vimeo.com
+127.0.0.1	www.vimeo.com
+127.0.0.1	api.vimeo.com
+127.0.0.1	player.vimeo.com
+#151.101.86.109	i.vimeocdn.com
+#151.101.86.109	f.vimeocdn.com
+# Vimeo End
