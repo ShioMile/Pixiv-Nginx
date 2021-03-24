@@ -48,6 +48,9 @@ DNS.34 = imgur.com
 DNS.35 = *.imgur.com
 DNS.36 = vimeo.com
 DNS.37 = *.vimeo.com
+DNS.38 = github.com
+DNS.39 = *.github.com
+DNS.40 = *.githubusercontent.com
 
 [ v3_req ]
 keyUsage				= digitalSignature

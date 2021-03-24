@@ -166,3 +166,26 @@
 #151.101.86.109	i.vimeocdn.com
 #151.101.86.109	f.vimeocdn.com
 # Vimeo End
+
+# Github Start
+127.0.0.1	github.com
+127.0.0.1	raw.githubusercontent.com
+127.0.0.1	gist.githubusercontent.com
+127.0.0.1	camo.githubusercontent.com
+127.0.0.1	cloud.githubusercontent.com
+127.0.0.1	avatars.githubusercontent.com
+127.0.0.1	avatars0.githubusercontent.com
+127.0.0.1	avatars1.githubusercontent.com
+127.0.0.1	avatars2.githubusercontent.com
+127.0.0.1	avatars3.githubusercontent.com
+127.0.0.1	avatars4.githubusercontent.com
+127.0.0.1	avatars5.githubusercontent.com
+127.0.0.1	avatars6.githubusercontent.com
+127.0.0.1	avatars7.githubusercontent.com
+127.0.0.1	avatars8.githubusercontent.com
+127.0.0.1	desktop.githubusercontent.com
+127.0.0.1	user-images.githubusercontent.com
+127.0.0.1	repository-images.githubusercontent.com
+127.0.0.1	marketplace-screenshots.githubusercontent.com
+127.0.0.1	pipelines.actions.githubusercontent.com
+# Github End
